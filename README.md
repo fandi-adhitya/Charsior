@@ -1,4 +1,4 @@
-# noerani_cashier
+# Charsior
 
 A new Flutter project.
 
